@@ -3,9 +3,10 @@
 <h3 align="center">Welcome to my profile !</h3>
 
 <p align="center"> I'm a dedicated Software Engineer passionate about crafting efficient and scalable solutions. Over the years, I've honed my skills in designing and implementing robust software systems, always striving for clean, maintainable code. I enjoy working on innovative projects, collaborating with talented teams, and contributing to the open-source community. Outside of work, I love exploring new advancements in the tech world, participating in hackathons, and mentoring aspiring developers. I'm eager to connect with fellow tech enthusiasts and work on exciting new challenges. Let's create something extraordinary together!</p>
-<div>
+<br>
+<!-- <div>
 <img align="center" src="https://github.com/Pramudithagn/Pramudithagn/blob/main/classical-pattern-dividing-line.png" alt="pramuditha.gunaratne" height="150" width="4000" />
-</div>	
+</div>	 -->
 
 ### 📨 Social & Contact
 
