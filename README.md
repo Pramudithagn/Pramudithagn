@@ -1,16 +1,15 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQHqENX0koZXNA/profile-displaybackgroundimage-shrink_350_1400/0/1715722521243?e=1722470400&v=beta&t=Z3NfTo8E7uidnEUFLXLB8AdZ8UrocWDad0_q8N25tTI)](https://rishavchanda.io)
 <h1 align="center">Hi there.. 👋</h1>
-<h3 align="center">I am a graduate Software Engineer and a passionate Full-Stack Developer</h3>
-
-
+<h3 align="center">Welcome to my profile !</h3>
 
 <p align="center"> I'm a dedicated Software Engineer passionate about crafting efficient and scalable solutions. Over the years, I've honed my skills in designing and implementing robust software systems, always striving for clean, maintainable code. I enjoy working on innovative projects, collaborating with talented teams, and contributing to the open-source community. Outside of work, I love exploring new advancements in the tech world, participating in hackathons, and mentoring aspiring developers. I'm eager to connect with fellow tech enthusiasts and work on exciting new challenges. Let's create something extraordinary together!</p>
-
 <div>
 <img align="center" src="https://github.com/Pramudithagn/Pramudithagn/blob/main/classical-pattern-dividing-line.png" alt="pramuditha.gunaratne" height="150" width="4000" />
-</div>																																																	       
+</div>	
+
 ### 📨 Social & Contact
 
+Contact with me:
 <div align="left">
 <p align="left">
 <a href="mailto:pramudithagn@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="pramuditha.gunaratne" height="30" width="40" /></a>
