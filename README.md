@@ -3,25 +3,13 @@
 <h3 align="center">Welcome to my profile !</h3>
 
 <p align="center"> I'm a dedicated Software Engineer passionate about crafting efficient and scalable solutions. Over the years, I've honed my skills in designing and implementing robust software systems, always striving for clean, maintainable code. I enjoy working on innovative projects, collaborating with talented teams, and contributing to the open-source community. Outside of work, I love exploring new advancements in the tech world, participating in hackathons, and mentoring aspiring developers. I'm eager to connect with fellow tech enthusiasts and work on exciting new challenges. Let's create something extraordinary together!</p>
-<br>
+
+<!-- <div>
+<img align="center" src="https://github.com/Pramudithagn/Pramudithagn/blob/main/DevOps%20by%20Designsells%20on%20Dribbble.gif" alt="pramuditha.gunaratne" />
+</div> -->
 <!-- <div>
 <img align="center" src="https://github.com/Pramudithagn/Pramudithagn/blob/main/classical-pattern-dividing-line.png" alt="pramuditha.gunaratne" height="150" width="4000" />
 </div>	 -->
-
-### 📨 Social & Contact
-
-Contact with me:
-<div align="left">
-<p align="left">
-<a href="mailto:pramudithagn@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="pramuditha.gunaratne" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pramuditha-gunaratne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramuditha-gunaratne" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14825379/pramuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pramuditha-gunaratne" height="30" width="40" /></a>
-</p>
-<br>
-</div>
-
-<p align="left">
-</p>
 
 
 ### ⚙ Skills
@@ -80,6 +68,19 @@ Contact with me:
   	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
    	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
     	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio"/></code>
+</div>
+<br><br>
+
+### 📨 Social & Contact
+
+Contact with me:
+<div align="left">
+<p align="left">
+<a href="mailto:pramudithagn@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" alt="pramuditha.gunaratne" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pramuditha-gunaratne/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramuditha-gunaratne" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14825379/pramuditha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pramuditha-gunaratne" height="30" width="40" /></a>
+</p>
+<br>
 </div>
 
 
